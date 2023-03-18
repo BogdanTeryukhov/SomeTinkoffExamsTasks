@@ -1,1 +1,1 @@
-"Some tasks from the Tinkoff Exam"
+Some tasks from the Tinkoff Exams
